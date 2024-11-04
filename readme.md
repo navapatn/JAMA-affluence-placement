@@ -4,7 +4,7 @@ This project analyzes the relationship between clinician characteristics and the
 **Data Sources**
 CMS Doctors and Clinicians Data
 
-**Source:** Centers for Medicare & Medicaid Services (CMS)
+****Source:** Centers for Medicare & Medicaid Services (CMS)**
 **Date Downloaded:** August 20, 2024
 **Description:** This dataset contains clinician-level records, unique by identifiers like NPI, Enrollment ID, Organization PAC ID, and Address ID. For each clinician, only the earliest record by graduation year is used to identify their first practice location.
 Area Deprivation Index (ADI)
